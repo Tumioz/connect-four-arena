@@ -2,7 +2,7 @@
 <p align="center"><b>Play a bot, watch two bots battle, or run a full tournament.<br>Pure Java 21 with zero runtime dependencies.</b></p>
 
 <p align="center">
-  <a href="https://github.com/Tumioz/connect-four-arena/actions/workflows/ci.yml"><img src="https://github.com/YOUR-USERNAME/connect-four-arena/actions/workflows/ci.yml/badge.svg" alt="CI status"></a>
+  <a href="https://github.com/Tumioz/connect-four-arena/actions/workflows/ci.yml"><img src="https://github.com/Tumioz/connect-four-arena/actions/workflows/ci.yml/badge.svg" alt="CI status"></a>
   <img src="https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white" alt="Java 21">
   <img src="https://img.shields.io/badge/runtime%20dependencies-0-2ea44f" alt="Zero runtime dependencies">
   <img src="https://img.shields.io/badge/tests-39%20JUnit%205-2140d8" alt="39 JUnit 5 tests">
